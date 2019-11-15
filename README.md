@@ -24,7 +24,7 @@ Visualization of training with the following hyperparameteres.
 	NOISE_SIZE = 100
 	LR_D = 0.00004
 	LR_G = 0.0002
-	BATCH_SIZE = 64
+	BATCH_SIZE = 20
 	EPOCHS = 60
 	BETA1 = 0.5
 	WEIGHT_INIT_STDDEV = 0.02
