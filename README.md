@@ -29,7 +29,7 @@ Visualization of training with the following hyperparameteres.
 	BETA1 = 0.5
 	WEIGHT_INIT_STDDEV = 0.02
 	EPSILON = 0.00005
-
+Here considering the computational power, we will be running only 20 epochs ratehr than 60 epochs. Instead you can view the result after running 60 epochs which has been ran on a different machine with higher computational capability.
 
 ## Results
 
@@ -38,15 +38,6 @@ Generated samples after 60 epochs of training.
 <img src="assets/final_grid.png">
 
 
-## Author
-
-**Greg (Grzegorz) Surma**
-
-[**PORTFOLIO**](https://gsurma.github.io)
-
-[**GITHUB**](https://github.com/gsurma)
-
-[**BLOG**](https://medium.com/@gsurma)
 
 
 
